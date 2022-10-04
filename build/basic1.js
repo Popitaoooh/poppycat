@@ -5,10 +5,9 @@ var delayInMilliseconds = 3500;
 function btnClick(){
 	trashval --;
 	document.getElementById("trashval").innerHTML = trashval;
-	return true 
 
 setTimeout(function() {
 }, delayInMilliseconds);
-window.location.href = "spooky.html";
+window.location.href = "https://poppycatclass.onrender.com/spooky.html";
 return true 
 }
