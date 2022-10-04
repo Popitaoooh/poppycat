@@ -1,3 +1,10 @@
 body {
   background-color: black;
 }
+h1 {
+  color: red;
+  margin-left: 20px;
+  font-weight: bold;
+  font-family: Garamond, Times New Roman, Arial, Serif;
+  font-size: 46px;
+}
